@@ -1,5 +1,5 @@
-There's is a Strong negative correlation between the Max Temperature and the Latitude for the Northern Hemisphere. 
+There's a Strong negative correlation between the Max Temperature and the Latitude for the Northern Hemisphere. 
 --------------------------------------------------------------------
-There's is a Strong positive correlation between the Max Temperature and the Latitude for the Southern Hemisphere.
+There's a Strong positive correlation between the Max Temperature and the Latitude for the Southern Hemisphere.
 --------------------------------------------------------------------
-There's is almost a non-existing correlation between the Humidity % and the Latitude for the Northern Hemisphere.
+There's almost a non-existing correlation between the Humidity % and the Latitude for the Northern Hemisphere.
